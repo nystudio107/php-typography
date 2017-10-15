@@ -12,7 +12,7 @@
 	For web design services, please contact jeff@kingdesk.com.
 */
 
-namespace Debach\PhpTypography;
+namespace nystudio107\PhpTypography;
 
 # if used with multibyte language, UTF-8 encoding is required!
 class PhpTypography {

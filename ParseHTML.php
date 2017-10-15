@@ -13,7 +13,7 @@ Author URI: http://kingdesk.com/about/jeff/
 	For web design services, please contact info@kingdesk.com.
 */
 
-namespace Debach\PhpTypography;
+namespace nystudio107\PhpTypography;
 
 #########################################################################################################
 #########################################################################################################
